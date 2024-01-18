@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sbhobbes/Documents/git/advanced-python-datasci/uc_course/notebooks/mlruns/196589222469878636/1ef8a09551f3483fbbf5409a3f060764/artifacts
+end_time: 1705604508897
+entry_point_name: ''
+experiment_id: '196589222469878636'
+lifecycle_stage: active
+run_id: 1ef8a09551f3483fbbf5409a3f060764
+run_name: calm-bass-604
+run_uuid: 1ef8a09551f3483fbbf5409a3f060764
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705603928129
+status: 3
+tags: []
+user_id: sbhobbes

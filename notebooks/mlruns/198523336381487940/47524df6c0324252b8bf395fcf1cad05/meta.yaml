@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sbhobbes/Documents/git/advanced-python-datasci/uc_course/notebooks/mlruns/198523336381487940/47524df6c0324252b8bf395fcf1cad05/artifacts
+end_time: 1705609152972
+entry_point_name: ''
+experiment_id: '198523336381487940'
+lifecycle_stage: active
+run_id: 47524df6c0324252b8bf395fcf1cad05
+run_name: illustrious-dog-64
+run_uuid: 47524df6c0324252b8bf395fcf1cad05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705607995479
+status: 3
+tags: []
+user_id: sbhobbes

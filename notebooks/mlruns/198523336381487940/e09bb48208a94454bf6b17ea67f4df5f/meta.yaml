@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sbhobbes/Documents/git/advanced-python-datasci/uc_course/notebooks/mlruns/198523336381487940/e09bb48208a94454bf6b17ea67f4df5f/artifacts
+end_time: 1705609152972
+entry_point_name: ''
+experiment_id: '198523336381487940'
+lifecycle_stage: active
+run_id: e09bb48208a94454bf6b17ea67f4df5f
+run_name: glamorous-snipe-934
+run_uuid: e09bb48208a94454bf6b17ea67f4df5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705607995479
+status: 3
+tags: []
+user_id: sbhobbes

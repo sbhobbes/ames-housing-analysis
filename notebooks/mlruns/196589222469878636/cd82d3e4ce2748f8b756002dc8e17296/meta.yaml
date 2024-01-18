@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sbhobbes/Documents/git/advanced-python-datasci/uc_course/notebooks/mlruns/196589222469878636/cd82d3e4ce2748f8b756002dc8e17296/artifacts
+end_time: 1705604508897
+entry_point_name: ''
+experiment_id: '196589222469878636'
+lifecycle_stage: active
+run_id: cd82d3e4ce2748f8b756002dc8e17296
+run_name: bold-gnat-446
+run_uuid: cd82d3e4ce2748f8b756002dc8e17296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705603928129
+status: 3
+tags: []
+user_id: sbhobbes

@@ -1,0 +1,13 @@
+digest: 5abd9122
+name: dataset
+profile: '{"num_rows": 12211, "num_elements": 146532}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "age"}, {"type": "string", "name":
+  "workclass"}, {"type": "string", "name": "education"}, {"type": "string", "name":
+  "marital-status"}, {"type": "string", "name": "occupation"}, {"type": "string",
+  "name": "relationship"}, {"type": "string", "name": "race"}, {"type": "string",
+  "name": "sex"}, {"type": "long", "name": "capital-gain"}, {"type": "long", "name":
+  "capital-loss"}, {"type": "long", "name": "hours-per-week"}, {"type": "string",
+  "name": "native-country"}]}'
+source: '{"tags": {"mlflow.user": "sbhobbes", "mlflow.source.name": "c:\\Users\\sbhobbes\\Anaconda3\\envs\\uc-python\\Lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

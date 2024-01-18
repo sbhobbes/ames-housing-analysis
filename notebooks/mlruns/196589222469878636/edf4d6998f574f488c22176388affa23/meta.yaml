@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sbhobbes/Documents/git/advanced-python-datasci/uc_course/notebooks/mlruns/196589222469878636/edf4d6998f574f488c22176388affa23/artifacts
+end_time: 1705603473318
+entry_point_name: ''
+experiment_id: '196589222469878636'
+lifecycle_stage: active
+run_id: edf4d6998f574f488c22176388affa23
+run_name: baseline_model
+run_uuid: edf4d6998f574f488c22176388affa23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705603467341
+status: 3
+tags: []
+user_id: sbhobbes

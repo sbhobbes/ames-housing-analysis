@@ -1,0 +1,8 @@
+[('preprocessor', ColumnTransformer(transformers=[('one-hot-encoder',
+                                 OneHotEncoder(handle_unknown='ignore'),
+                                 ['workclass', 'education', 'marital-status',
+                                  'occupation', 'relationship', 'race', 'sex',
+                                  'native-country']),
+                                ('standard_scaler', StandardScaler(),
+                                 ['age', 'capital-gain', 'capital-loss',
+                                  'hours-per-week'])])), ('knn', KNeighborsClassifier())]

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sbhobbes/Documents/git/advanced-python-datasci/uc_course/notebooks/mlruns/196589222469878636/f9640f0f7b014a14ace825276542e6c2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '196589222469878636'
+lifecycle_stage: active
+run_id: f9640f0f7b014a14ace825276542e6c2
+run_name: autolog_run
+run_uuid: f9640f0f7b014a14ace825276542e6c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705603170890
+status: 1
+tags: []
+user_id: sbhobbes
